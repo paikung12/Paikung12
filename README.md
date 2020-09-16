@@ -18,7 +18,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/paikung12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paikung12&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paikung12&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
